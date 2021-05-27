@@ -1,0 +1,18 @@
+*{
+	margin:0;
+	padding: 0;
+	
+
+}
+.img-responsive{
+    height: 350px;
+    width: 500px;
+    margin-bottom: 2rem;
+    border-radius: 100%;
+
+}
+#con{
+	/*background-image: url('image.png');*/
+	background-size: 100%;
+	
+}
